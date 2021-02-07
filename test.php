@@ -7,7 +7,7 @@
   <body>
   	<?php
 
-    echo "This is my logo!!!<br>";
+    echo "This is my logo below!!!<br>";
      
     ?>
 
