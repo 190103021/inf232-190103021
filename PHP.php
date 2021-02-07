@@ -3,10 +3,10 @@
 <body>
 
 <?php
-     echo "My solution from edabit.com <br>";
+     echo "Reverse image <br>";
 
 
-     
+
      function reverseImage($image) {
 	$rev = array();
 	for($i = 0; $i < count($image); $i++){
